@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px 60px;
+    background: url(https://www.pulsovideojuegos.com/wp-content/uploads/2023/09/wallpaper-starfield-planeta.jpeg) no-repeat center center fixed ;
+    background-size: cover;
+}
+
+footer{
+    background-color: #153f59;
+    text-align: center;
+    color: #D8D8D6;
+    padding: 10px;
+    position: fixed;
+    width: 90%;
+    bottom: 0;
+}

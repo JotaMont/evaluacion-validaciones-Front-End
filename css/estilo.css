@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px 60px;
+    background: url(https://services.meteored.com/img/article/por-que-parpadean-las-estrellas-1677161079460_1280.jpeg) no-repeat center center fixed ;
+    background-size: cover;
+}
+
+header {
+    background-color: #153f59;
+    color: #D8D8D6;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: #153f59;
+    text-align: center;
+    color: #D8D8D6;
+    padding: 10px;
+    position: sticky;
+    width: 100%;
+    bottom: 0;
+}
+
+.container{
+    width: 700px;
+    padding: 30;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    color: #D8D8D6;
+    box-shadow: 100% #153f59;
+}
+
+.btn-primary {
+    background-color: #107acc !important;
+    border-color: #107acc !important;
+    margin: center;
+}
+
+.btn-primary:hover {
+    background-color: #153f59 !important;
+}
+
+
+.btn-outline-secondary{
+    background-color: #107acc !important;
+    border-color: #107acc !important;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #153f59 !important;
+}
+
+.error-message {
+    font-size: 0.875em;
+    color: red;
+    margin-top: 5px;
+}
