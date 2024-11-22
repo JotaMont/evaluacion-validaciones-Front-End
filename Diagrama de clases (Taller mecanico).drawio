@@ -222,9 +222,6 @@
         <mxCell id="PkGunIE6QeiL3xr68-80-11" value="+ void eliminar_departamento&#xa;(int, id_departamento)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PkGunIE6QeiL3xr68-80-7" vertex="1">
           <mxGeometry y="176" width="200" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="PkGunIE6QeiL3xr68-80-21" value="&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;strong&gt;Tipos de datos comunes&lt;/strong&gt;:&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&lt;code&gt;(int)&lt;/code&gt;: Números enteros.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&lt;code&gt;(String)&lt;/code&gt;: Texto.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&lt;code&gt;(double)&lt;/code&gt;: Números decimales.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;&lt;code&gt;(LocalDate)&lt;/code&gt;: Fecha (usado para fechas de fabricación y vencimiento).&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="350" width="220" height="150" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
